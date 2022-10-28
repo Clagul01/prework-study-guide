@@ -21,5 +21,3 @@ This study guide lists the topics of HTML, CSS, Git and JavaScript with fact lis
 N/A
 
 ## License
-
-Please refer to the LICENSE in the repo.
